@@ -1,0 +1,34 @@
+name: sum_result_and_draw_pres_graph
+channels:
+  - defaults
+dependencies:
+  - blas=1.0=openblas
+  - ca-certificates=2021.1.19=hecd8cb5_0
+  - certifi=2020.12.5=py39hecd8cb5_0
+  - et_xmlfile=1.0.1=py_1001
+  - jdcal=1.4.1=py_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - libgfortran=3.0.1=h93005f0_2
+  - libopenblas=0.3.10=h0794777_0
+  - ncurses=6.2=h0a44026_1
+  - numpy=1.19.2=py39h0fa1045_0
+  - numpy-base=1.19.2=py39h3a452eb_0
+  - openpyxl=3.0.6=pyhd3eb1b0_0
+  - openssl=1.1.1i=h9ed2024_0
+  - pandas=1.2.1=py39hb2f4e1b_0
+  - pip=20.3.3=py39hecd8cb5_0
+  - python=3.9.1=h88f2d9e_2
+  - python-dateutil=2.8.1=py_0
+  - pytz=2020.5=pyhd3eb1b0_0
+  - readline=8.0=h1de35cc_0
+  - setuptools=52.0.0=py39hecd8cb5_0
+  - six=1.15.0=py39hecd8cb5_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - tzdata=2020f=h52ac0ba_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+prefix: /Users/yuto/opt/anaconda3/envs/sum_result_and_draw_pres_graph
